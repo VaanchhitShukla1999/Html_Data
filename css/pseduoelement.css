@@ -1,0 +1,15 @@
+p::after{
+    content:"  ok bye";
+}
+h1::before{
+    content: "ok bye ";
+}
+h1::first-letter{
+    color: aqua;
+}
+h1::first-line{
+    background-color:cadetblue ;
+}
+li::marker{
+    color: red;
+}

@@ -1,0 +1,29 @@
+a:link{
+    color: brown;
+}
+
+a:visited{
+    color: aqua;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active
+{
+    color:black ;
+}
+
+/*p:first-child{
+    background-color:aqua ;
+}
+*/
+
+p:last-child{
+    background-color: gray;
+}
+p:nth-child(3)
+{
+    background-color: blueviolet;
+}
